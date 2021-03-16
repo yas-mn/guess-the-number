@@ -1,1 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T16:17:26.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="WS3Cp_1HRLiuz-KU_lUF" version="14.4.8" type="github"><diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">7Vttb5s6GP01SHcfVoEJSfuxYckmLbmr2m77eOWCA9YIRsZ526+fDTaEOGlhd2m8JlLUwMMTg59zfGyfJpbrz9cfKcziKQlRYgE7XFvuBwsABwCXv4nIpowMbgZlIKI4lEl14AH/RDJoy+gChyhvJDJCEoazZjAgaYoC1ohBSsmqmTYjSfOuGYyQFngIYKJHv+OQxWX02rPr+CeEo1jd2bHllTlUyTKQxzAkq0YIrdmYpEw+4h2ic5iilPErU0h/IGp5o5gx0dNbC4z5ayayryJCogTBDOdXAZnzcJDzlPEMznEiyrzV0FA2xG/njizXp4Sw8mi+9lEisFIwlM80PnC1qgMV7bb4gP9+uZn8sFn6aeV+Y9NpdDd4ei9bWcJkIesra8M2quAo5PWXp/xWmG3uUQIZJumovjJEaXgr0OVJo/ufiJJHMoUp7/wwZ5Cy+hpJZfoY88dzPzgqRZ7b/FzvmnzOnCxogJ7pD+hJSkIaIfZMYl8CHjbYJiv3EZE5YnTDE1Y1xyomxdv8UkFaFGXZZCmUTIqqBqt73BFcEEsOTLcn21HDUlFSNVF2XX5qG+adhno7DfV3GypLozXED7Y6XocKFnVhFHhjlHJbMsoZGEapnt1kgnP9u5TqNxsCtveqlNIZ9YWGiOYar7iiZ+KQwaeCQQUJ5BTmChbwSYlBnHL9LVkSkCSBWY6L9DIS4yScwA1ZMNWQOhvO8BqF9+UMJnI5/ya8sVxSTMwFitXiMkxwlPLjgFNO3HFIUc6fZQJzJjMOknKJKEPrZ1mksPF2QFbDfYtlwNvHMtc+TKgGgl3hcl8WAAUU7zrDMLnnCwWYRgVmTUhEXUNKskc1+kQgE0RDdLRE5VRdFJ8PdZ8kRCCbloJQpBWd84b8xbvr21ee5fEH8Pm5U5/zl0inzCdpzijEBRyIA7VCAqwhI5m8T4Jm6jGoLKY4fiKM8Zn/EKzP0vplrCW2bktoj4ZsT0P27nMXbAnv6ywpVDvGYYjSckiKdSKs8d4D5d76VzXfBWN3ILbEw22NxxYA7mvW39PqT4QQ/sc/5APr1i5V+98vj+Lv18nEqpa6JsGjdLHMHeYZDHAaTcpP9nfw846B39o6OJ7Aa+LZP2el3L8q+zNK2T+1Ug40ZMefnS7gvtJYbAlAvzUAp5LGa63gwSLnfS7VEeyRRuOweFEX/zhYpujgzUUHj6ODN6fWQeUa/ia0ZqngTevyn0oFHd3PK1eIIWSIx+XbWchge7RMkUFH3zk/xDibF6J18To0rwNct5S343kdjr4lPqOpq8Pm2mm/OzPF7XD07fZbsjsq6ho8nekb5FwK4sXz6AqiMbOcvjc+I8nssNzsLpkntz0cfRv+V/seFVcN1kh981yZwmdle3TAyhQpBP9vd3yRQoOdD6BvxQ0cfC3rXxHVXB1U5d23VjxD96MDYsaooW5/+NLDv9gf1tZXOzp/1cM+GmQX+6PlcPz77A/wtu0PYL79AXT746V/ap6T99EBQWOmuIv3cSy9PLn3AXTvw8DB2Lb+5hsfQDc+KnVM4Vys9IMY0n88+93ZLPpNskD4af3jlvKr4PUvktzRLw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-16T16:55:35.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="lWShQ5bpQvBGTO30vgHb" version="14.4.8" type="github">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="984" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qnjHxbxDNpUlcqlMqAF2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="40" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="qnjHxbxDNpUlcqlMqAF2-3" value="Books" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="491" y="50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qnjHxbxDNpUlcqlMqAF2-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="140" width="232" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="qnjHxbxDNpUlcqlMqAF2-9" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="34" y="180" as="sourcePoint" />
+            <mxPoint x="266" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="86" y="180" />
+              <mxPoint x="266" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qnjHxbxDNpUlcqlMqAF2-12" value="Student" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="150" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qnjHxbxDNpUlcqlMqAF2-13" value="Student ID&lt;br&gt;Student Name&lt;br&gt;Year of Study&lt;br&gt;Degree Course&lt;br&gt;Apprenticeship&lt;br&gt;&amp;nbsp;Interested in Collaborative Clubs&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="220" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qnjHxbxDNpUlcqlMqAF2-7" value="Book ID&lt;br&gt;Book Title&amp;nbsp;&lt;br&gt;Book Author&amp;nbsp;&lt;br&gt;Classification&lt;br&gt;Loan date taken&amp;nbsp;&lt;br&gt;Loan date due&lt;br&gt;Loan Count&amp;nbsp;&lt;br&gt;Book Price" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="381" y="110" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qnjHxbxDNpUlcqlMqAF2-19" value="" style="endArrow=none;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="qnjHxbxDNpUlcqlMqAF2-1" target="qnjHxbxDNpUlcqlMqAF2-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="741" y="230" as="sourcePoint" />
+            <mxPoint x="791" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qnjHxbxDNpUlcqlMqAF2-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311" y="290" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qnjHxbxDNpUlcqlMqAF2-25" value="" style="endArrow=none;html=1;exitX=-0.002;exitY=0.386;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qnjHxbxDNpUlcqlMqAF2-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="341" y="340" as="sourcePoint" />
+            <mxPoint x="621" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="466" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qnjHxbxDNpUlcqlMqAF2-26" value="Staff" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="451" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qnjHxbxDNpUlcqlMqAF2-27" value="Staff ID&lt;br&gt;Staff Name&amp;nbsp;&lt;br&gt;Job Title&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="331" y="350" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qnjHxbxDNpUlcqlMqAF2-33" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;exitX=1.017;exitY=0.133;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qnjHxbxDNpUlcqlMqAF2-8">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="290" y="190" as="sourcePoint" />
+            <mxPoint x="401" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qnjHxbxDNpUlcqlMqAF2-36" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="qnjHxbxDNpUlcqlMqAF2-24" target="qnjHxbxDNpUlcqlMqAF2-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="700.62" y="340" as="sourcePoint" />
+            <mxPoint x="731" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
